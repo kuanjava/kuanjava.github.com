@@ -1,1 +1,1 @@
-# kuanjava.github.com
+# kuanjava.github.io
